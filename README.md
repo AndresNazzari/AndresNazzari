@@ -2,7 +2,9 @@
 
 **AndresNazzari/AndresNazzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AndresNazzari&theme=dracula&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndresNazzari&theme=dracula&column=-1)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresNazzari)]
 
 Here are some ideas to get you started:
 
