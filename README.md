@@ -16,14 +16,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AndresNazzari" alt="andresnazzari"/>
 </p>
 
-<!--
-![trophy](https://github-profile-trophy.vercel.app/?username=AndresNazzari&theme=dracula&column=-1)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresNazzari&count_private=true&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNazzari&layout=compact)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndresNazzari) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 Here are some ideas to get you started:
 
