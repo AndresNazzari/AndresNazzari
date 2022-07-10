@@ -4,7 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndresNazzari&theme=dracula&column=-1)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresNazzari)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresNazzari&count_private=true&show_icons=true&theme=dracula)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
 
 Here are some ideas to get you started:
 
