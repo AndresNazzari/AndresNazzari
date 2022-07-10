@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 **AndresNazzari/AndresNazzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<span style="display:block;text-align:center">
-<a href="#" align="center" >
-<img src="https://github-profile-trophy.vercel.app/?username=AndresNazzari&theme=dracula&column=-1" alt="andresnazzari"/>
-</a>
-</span>
+
+<p align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=AndresNazzari&theme=dracula&column=-1" alt="andresnazzari"/>
+</p>
 
 <a href="#" align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=AndresNazzari&count_private=true&show_icons=true&theme=dracula" alt="andresnazzari"/>
