@@ -6,7 +6,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresNazzari&count_private=true&show_icons=true&theme=dracula)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNazzari&layout=compact)]
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndresNazzari)]
 
 Here are some ideas to get you started:
 
