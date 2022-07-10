@@ -2,17 +2,17 @@
 
 **AndresNazzari/AndresNazzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="#">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=AndresNazzari&theme=dracula&column=-1" alt="andresnazzari"/>
+<a href="#" align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=AndresNazzari&theme=dracula&column=-1" alt="andresnazzari"/>
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresNazzari&count_private=true&show_icons=true&theme=dracula" alt="andresnazzari"/>
+<a href="#" align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=AndresNazzari&count_private=true&show_icons=true&theme=dracula" alt="andresnazzari"/>
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNazzari&layout=compact" alt="andresnazzari"/>
+<a href="#" align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNazzari&layout=compact" alt="andresnazzari"/>
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndresNazzari" alt="andresnazzari"/>
+<a href="#" align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AndresNazzari" alt="andresnazzari"/>
 </a>
 
 <!--
