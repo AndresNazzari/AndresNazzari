@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 281 Contributions in the Year 2022
+> 🏆 286 Contributions in the Year 2022
  > 
 > 📦 81.7 kB Used in GitHub's Storage 
  > 
@@ -62,17 +62,17 @@ Sunday       85 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               15 hrs 23 mins      ██████████████████░░░░░░░   71.99% 
-SCSS                     2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
-CSS                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
-Python                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+JavaScript               12 hrs 17 mins      ███████████████████░░░░░░   77.75% 
+SCSS                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
+TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 🔥 Editors: 
-VS Code                  21 hrs 2 mins       █████████████████████████   100.0%
+VS Code                  15 hrs 46 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  21 hrs 2 mins       █████████████████████████   100.0%
+Windows                  15 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2022 01:02:12 UTC
+ Last Updated on 13/08/2022 00:51:28 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
