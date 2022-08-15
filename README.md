@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -62,17 +62,17 @@ Sunday       85 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               15 hrs 22 mins      ███████████████████░░░░░░   77.8% 
-SCSS                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
-TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.89% 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
+JavaScript               17 hrs 44 mins      ████████████████████░░░░░   80.17% 
+SCSS                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
+TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
 
 🔥 Editors: 
-VS Code                  19 hrs 44 mins      █████████████████████████   100.0%
+VS Code                  22 hrs 6 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  19 hrs 44 mins      █████████████████████████   100.0%
+Windows                  22 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2022 00:59:01 UTC
+ Last Updated on 15/08/2022 01:01:13 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
