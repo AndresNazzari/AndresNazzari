@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 481 Contributions in the Year 2022
+> 🏆 442 Contributions in the Year 2022
  > 
 > 📦 79.9 kB Used in GitHub's Storage 
  > 
@@ -62,17 +62,17 @@ Sunday       77 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               13 hrs 44 mins      ███████████████████████░░   93.68% 
-SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+JavaScript               15 hrs 56 mins      ███████████████████████░░   92.82% 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 
 🔥 Editors: 
-VS Code                  14 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  17 hrs 10 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  14 hrs 40 mins      █████████████████████████   100.0%
+Windows                  17 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2022 01:11:46 UTC
+ Last Updated on 26/08/2022 01:03:37 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
