@@ -15,17 +15,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 442 Contributions in the Year 2022
+> 🏆 443 Contributions in the Year 2022
  > 
-> 📦 79.9 kB Used in GitHub's Storage 
+> 📦 80.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,22 +36,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    190 commits    ██████████░░░░░░░░░░░░░░░   39.5% 
-🌆 Daytime    145 commits    ███████░░░░░░░░░░░░░░░░░░   30.15% 
-🌃 Evening    95 commits     █████░░░░░░░░░░░░░░░░░░░░   19.75% 
-🌙 Night      51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
+🌞 Morning    190 commits    █████████░░░░░░░░░░░░░░░░   39.42% 
+🌆 Daytime    146 commits    ███████░░░░░░░░░░░░░░░░░░   30.29% 
+🌃 Evening    95 commits     █████░░░░░░░░░░░░░░░░░░░░   19.71% 
+🌙 Night      51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.58%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
-Tuesday      93 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
-Wednesday    50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
-Thursday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Friday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
-Saturday     40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.32% 
-Sunday       77 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01%
+Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
+Tuesday      93 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29% 
+Wednesday    50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
+Thursday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Friday       82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.01% 
+Saturday     40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
+Sunday       77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98%
 
 ```
 
@@ -88,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2022 01:03:37 UTC
+ Last Updated on 27/08/2022 00:59:29 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
