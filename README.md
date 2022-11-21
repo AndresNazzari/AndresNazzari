@@ -15,9 +15,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-376%20Thousand%20lines%20of%20code-blue)
 
@@ -62,17 +62,17 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               11 hrs 38 mins      ███████████████████████░░   91.78% 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+JavaScript               10 hrs 46 mins      ███████████████████████░░   91.62% 
+HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
 🔥 Editors: 
-VS Code                  12 hrs 41 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 45 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  12 hrs 41 mins      █████████████████████████   100.0%
+Windows                  11 hrs 45 mins      █████████████████████████   100.0%
 
 ```
 
@@ -89,7 +89,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2022 01:00:54 UTC
+ Last Updated on 21/11/2022 01:01:20 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
