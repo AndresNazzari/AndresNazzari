@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -62,17 +62,17 @@ Sunday          65 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        ███████████████████████░░   92.85 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript               3 hrs 8 mins        ███████████████████████░░   92.07 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -89,7 +89,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2023 00:51:07 UTC
+ Last Updated on 10/02/2023 00:57:09 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
