@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,17 +60,17 @@ Sunday                   226 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-PHP                      12 hrs 49 mins      ██████████████████░░░░░░░   73.72 % 
-JavaScript               2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+PHP                      10 hrs 38 mins      ███████████████████░░░░░░   75.99 % 
+JavaScript               2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2023 01:02:33 UTC
+ Last Updated on 23/04/2023 01:09:23 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
