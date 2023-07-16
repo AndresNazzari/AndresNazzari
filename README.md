@@ -15,9 +15,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
 
@@ -60,17 +60,17 @@ Sunday                   226 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-PHP                      13 hrs 20 mins      ███████████████████████░░   93.53 % 
-JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+PHP                      12 hrs 5 mins       ███████████████████████░░   92.92 % 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2023 01:21:53 UTC
+ Last Updated on 16/07/2023 01:26:50 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
