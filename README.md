@@ -15,9 +15,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
 
@@ -60,17 +60,17 @@ Sunday                   226 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-PHP                      23 hrs 29 mins      ███████████████████████░░   91.97 % 
-JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+PHP                      24 hrs 16 mins      ███████████████████████░░   93.07 % 
+JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Docker                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2023 01:09:57 UTC
+ Last Updated on 30/07/2023 01:13:07 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
