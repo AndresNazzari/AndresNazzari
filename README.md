@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 105.8 kB Used in GitHub's Storage 
+> 📦 107.5 kB Used in GitHub's Storage 
  > 
 > 🏆 30 Contributions in the Year 2024
  > 
@@ -73,16 +73,16 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               18 repos            ██████████████░░░░░░░░░░░   56.25 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 02/07/2024 00:45:48 UTC
+ Last Updated on 03/07/2024 00:45:46 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
