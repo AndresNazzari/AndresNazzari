@@ -25,11 +25,11 @@
 
 > 📦 108.5 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2024
+> 🏆 31 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -72,17 +72,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ██████████████░░░░░░░░░░░   56.25 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               18 repos            ██████████████░░░░░░░░░░░   54.55 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
 
 
- Last Updated on 04/07/2024 00:46:02 UTC
+ Last Updated on 05/07/2024 00:45:27 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
